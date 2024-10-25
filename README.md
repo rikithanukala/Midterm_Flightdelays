@@ -17,16 +17,23 @@ By presenting this information in an interactive Tableau Story, stakeholders can
 Key Features :
 
 Overview of Flight Performance: Summary of total flights, percentage of delayed flights and average delay times. 
+
 Monthly Delay Trends: A month-by-month analysis of flight delays, identifying trends and fluctuations over time.
+
 Delay Causes Breakdown: Insights into the reasons behind flight delays, such as carrier, weather, and NAS delays.
+
 Airport Performance: A comparison of delay performance across different airports in the United States and top 5 airports with highest delays.
 
 Future Work :
 
 While the current analysis provides valuable insights, there are several opportunities for future work and enhancements:
+
 Incorporating Additional Airlines: Expanding the analysis to include other airlines operating at CLT to compare performance across the board.
+
 Predictive Analysis: Implementing machine learning models to predict future flight delays based on historical data, weather forecasts, and air traffic patterns.
+
 On-time Performance Comparison: Benchmarking American Airlines' performance against other major airlines flying into CLT.
+
 Passenger Impact Analysis: Analyzing how flight delays impact passenger connections and overall travel experience (e.g., missed connections, rebooking trends).
 
 Link to the Tableau Story : https://public.tableau.com/views/Midterm_FlightDelays/FlightDelaysArrivalFlightDelaysanalysisacrossUnitedStatesofAmerica2023?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
