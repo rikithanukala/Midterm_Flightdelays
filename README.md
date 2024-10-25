@@ -13,6 +13,4 @@ Delay Causes Breakdown: Insights into the reasons behind flight delays, such as 
 
 Airport Performance: A comparison of delay performance across different airports in the United States and top 5 airports with highest delays.
 
-Link to the Tableau Story : https://us-east-1.online.tableau.com/t/dsba5122fall24/views/Midterm_FlightDelays/FlightDelaysArrivalFlightDelaysanalysisacrossUnitedStatesofAmerica2023
-
-
+Link to the Tableau Story : https://public.tableau.com/views/Midterm_FlightDelays/FlightDelaysArrivalFlightDelaysanalysisacrossUnitedStatesofAmerica2023?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
