@@ -4,7 +4,7 @@
 Project Description : This project explores American Airlines arrival flight delays in 2023, with an emphasis on flights arriving at various airports across United States. The main objective is to understand the trends and causes of delays and to identify patterns that could provide insights for improving on-time performance and customer satisfaction.
 
 The dataset used for this project is "Detailed Statistics - Arrivals", which contains 117,474 records of American Airlines flights arriving at various airports across United States of America in 2023. The dataset includes fields such as Flight Number, Origin Airport, Destination Airport (CLT), Arrival Time, Scheduled Arrival Time, Arrival Delay, Date of Flight, Delay Causes (e.g., weather, air traffic control, airline operations).
-This data was sourced from United States Department of Transportation - Bureau of Transportation Statistics(Detailed Statistics Arrivals). https://www.transtats.bts.gov/ontime/Arrivals.aspx
+This data was sourced from United States Department of Transportation - Bureau of Transportation Statistics(Detailed Statistics Arrivals). 
 
 The purpose of this analysis is to provide insights into the performance of American Airlines flights at CLT in 2023, focusing on arrival delays. The project addresses several key questions:
 How many flights experienced delays?
