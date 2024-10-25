@@ -34,6 +34,6 @@ Predictive Analysis: Implementing machine learning models to predict future flig
 
 On-time Performance Comparison: Benchmarking American Airlines' performance against other major airlines flying into CLT.
 
-Passenger Impact Analysis: Analyzing how flight delays impact passenger connections and overall travel experience (e.g., missed connections, rebooking trends).
+Passenger Impact Analysis: Analyzing how flight delays impact passenger connections and overall travel experience.
 
 Link to the Tableau Story : https://public.tableau.com/views/Midterm_FlightDelays/FlightDelaysArrivalFlightDelaysanalysisacrossUnitedStatesofAmerica2023?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
